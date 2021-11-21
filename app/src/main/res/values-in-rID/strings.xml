@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Submission2GithubUser</string>
+    <string name="users_name">Pengguna Github</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="github_user">Penggunanya Github</string>
+    <string name="detail_user">Sangat Mendetail</string>
+
+    <string name="favorite">Favorit</string>
+    <string name="share">Bagikan</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Perusahaan : %s </string>
+    <string name="followers">Pengikuti</string>
+    <string name="following">Mengikuti</string>
+    <string name="avatar">Avatar</string>
+    <string name="change_language_settings">Ubah Setelan Bahasa</string>
+</resources>

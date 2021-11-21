@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Submission2GithubUser</string>
+    <string name="users_name">Github User</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="object_received">Object Received</string>
+    <string name="github_user">Github User\'s</string>
+    <string name="detail_user">It\'s Detailed</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location : %s </string>
+    <string name="repository">Repository : %s </string>
+    <string name="company">Company : %s </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
